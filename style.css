@@ -1,0 +1,26 @@
+.hero-section {
+    background-image: url('img/back.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgb(0, 0, 0);
+    padding: 150px 0;
+    text-align: center;
+  }
+  .feature-icon {
+    font-size: 50px;
+    color: #17a2b8;
+  }
+  .testimonial-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .registration-section {
+    background: #375570;
+    padding: 50px 0;
+  }
+  .footer {
+    background: #343a40;
+    color: white;
+    padding: 20px 0;
+  }
